@@ -1,1 +1,5 @@
 /* Add here all your CSS customizations */
+
+.btn-primary:hover:hover {
+    background-color: #193665 !important;
+}
